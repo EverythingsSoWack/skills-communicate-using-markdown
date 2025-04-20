@@ -24,5 +24,13 @@
   console.log("Ye' Olde Obligatorie Howdy Earth!")
  ```
 
+ ### Step Four Lists
+
+ - [x] Use the created file the instructions said
+ - [x] Like this, I wonder
+ - [x] No, that was a text file
+ - [ ] Like this then?
+ - [ ] Your about to find out, universe responds
+
 
 ## Celebrate 
